@@ -13,7 +13,7 @@
 # 🛠️ Other Tools:
 Excel, Power BI, Google Looker Studio
 
-## I speak
+## I speak 🗣️
 🇮🇹 (Native)
 🇬🇧 (C2)
 🇪🇸 (B2)
