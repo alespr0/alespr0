@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alessandro Profice
-- 📄 Read my CV **[https://drive.google.com/file/d/1fcI3kuD_M2lM4IhYhqlVP1iXQETwvnmL/view?usp=drivesdk](https://drive.google.com/file/d/1fcI3kuD_M2lM4IhYhqlVP1iXQETwvnmL/view?usp=drivesdk)**
+- [📄 Read my CV](https://drive.google.com/file/d/1fcI3kuD_M2lM4IhYhqlVP1iXQETwvnmL/view?usp=drivesdk)
 # 💫 About Me:
 📊A BI/data analyst specialised in marketing and eCommerce. <br>
 📚Currently pursuing a Masters in Big Data and Business Intelligence and looking for my next data role<br>
